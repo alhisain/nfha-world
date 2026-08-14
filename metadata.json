@@ -1,0 +1,6 @@
+{
+  "name": "NFHA Manage - نظام إدارة الورشة والتصنيع",
+  "description": "منظومة متكاملة لإدارة الورش والتصنيع الميكانيكي والمالية وورق العمل وتتبع مراحل الإنتاج والتقارير والصلاحيات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

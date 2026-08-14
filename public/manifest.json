@@ -1,0 +1,41 @@
+{
+  "short_name": "NFHA Manage",
+  "name": "NFHA Manage - نظام إدارة الورشة والتصنيع الميكانيكي",
+  "description": "المنظومة الهندسية المتكاملة لإدارة الورش ومراحل الإنتاج والتصنيع والتقارير التنفيذية",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "display": "standalone",
+  "orientation": "any",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["business", "productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "وورك شيت المشاريع",
+      "short_name": "المشاريع",
+      "description": "فتح لوحة أوامر الشغل والمشاريع",
+      "url": "/?view=worksheet"
+    },
+    {
+      "name": "حاسبة التكلفة والأوزان",
+      "short_name": "الحاسبة",
+      "description": "حساب أوزان وتكلفة الصاج والقص",
+      "url": "/?view=calculator"
+    }
+  ]
+}
